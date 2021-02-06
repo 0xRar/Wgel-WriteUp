@@ -61,7 +61,7 @@ chmod 400 id_rsa
 ssh jessie@MACHINE_IP -i id_rsa
 
 cd Document 
-flag : 057c67131c3d5e42dd5cd3075b198ff6
+flag : 057c67131c3d5*****************
 
 ```
 
@@ -103,7 +103,7 @@ Connection: Keep-Alive
 Content-Type: application/x-www-form-urlencoded
 Content-Length: 33
 
-flag : b1b968b37519ad1daa6408188649263d
+flag : b1b968b37519*****************
 
 
 ```
